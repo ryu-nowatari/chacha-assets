@@ -1,0 +1,17 @@
+{
+  "name": "ChaCha",
+  "symbol": "CHACHA",
+  "description": "ChaChaトークンです！楽しいダンスのイメージ♪",
+  "image": "https://raw.githubusercontent.com/ryu-nowatari/chacha-assets/main/chacha.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ryu-nowatari/chacha-assets/main/chacha.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
